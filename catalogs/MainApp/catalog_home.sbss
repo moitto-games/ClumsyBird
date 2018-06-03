@@ -1,0 +1,5 @@
+import themes.sbss
+
+#web_game: width=1pw, height=1ph, position=abs, gravity=center
+
+/home: page-background-color=$THEME_COLOR_02
